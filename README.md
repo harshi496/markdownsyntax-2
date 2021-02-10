@@ -29,8 +29,8 @@ _*sample text*_
 1. ece
 2. eee
 3. cse
-  1.  csea
-  2.  cseb
+   1. csea
+   2. cseb
 4. civil
 5. mech
 
@@ -41,3 +41,13 @@ _*sample text*_
  - eee
      + eeea
      + eeeb
+
+## code of function defination
+```
+def fun():
+    print("welcome to github workshop by apssdc")
+```
+## function calling
+`
+fun()
+`
