@@ -87,6 +87,9 @@ fun()
 - git commit -m "message"
 - git push remotename branchname
 - git pull remotename branchname
+## inserting images
+![image](https://github.com/harshi496/markdownsyntax-2.git)
+
 
 
 
