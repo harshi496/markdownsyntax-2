@@ -51,3 +51,13 @@ def fun():
 `
 fun()
 `
+## task 
+```
+def fun():
+     printf("hello world")
+```
+## fuction calling2
+`
+fun()
+`
+
