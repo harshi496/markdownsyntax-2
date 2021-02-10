@@ -89,6 +89,8 @@ fun()
 - git pull remotename branchname
 ## inserting images
 ![image](https://github.com/harshi496/markdownsyntax-2.git)
+## inserting videos
+[![song](https://img.youtube.com/vi/LaFtAcIrGWA/0.jpg)](https://www.youtube.com/watch?v=LaFtAcIrGWA)
 
 
 
